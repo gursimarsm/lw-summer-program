@@ -6,4 +6,4 @@ Task Description: </br>
 
 👉 In Container you need to copy/create machine learning model which you have created in jupyter notebook
 
-Refer : https://gursimar27.medium.com/creating-and-deploying-machine-learning-model-using-python-in-docker-container-819e62cce122
+Refer : https://gursimarsm.medium.com/creating-and-deploying-machine-learning-model-using-python-in-docker-container-819e62cce122
